@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Xcommunity Google Sign-in</string>
+    <string name="token_title">Your Google sign-in token</string>
+    <string name="token_note">Paste it into the Xcommunity sign-in screen (Google tab). Don\'t share it. It expires in about an hour.</string>
+    <string name="copy_token">Copy token</string>
+    <string name="token_copied">Token copied</string>
+    <string name="close">Close</string>
+    <string name="sign_in_failed">Couldn\'t start Google sign-in.</string>
+</resources>

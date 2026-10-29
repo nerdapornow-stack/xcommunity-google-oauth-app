@@ -1,0 +1,3 @@
+[submodule "app/vendor/xcommunity-google-oauth-webextension"]
+	path = app/vendor/xcommunity-google-oauth-webextension
+	url = https://github.com/nerdapornow-stack/xcommunity-google-oauth-webextension.git
